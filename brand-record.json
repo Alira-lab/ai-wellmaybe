@@ -1,0 +1,39 @@
+{
+  "brand": "AI WELLMAYBE",
+  "owner_maintainer": "Alira-lab",
+  "role": "company/platform brand",
+  "first_public_record_date": "2026-10-20",
+  "current_as_of": "2026-10-20",
+  "public_repository": "Alira-lab/ai-wellmaybe",
+  "product_family": [
+    "AI WELLMAYBE Ratings",
+    "AI WELLMAYBE Registry",
+    "AI WELLMAYBE Diagnostics",
+    "AI WELLMAYBE Edge"
+  ],
+  "technical_methodology": {
+    "name": "AI Risk Ratings",
+    "acronym": "AIRR",
+    "relationship": "underlying technical methodology/system; stable technical identifiers are not mechanically renamed by brand changes"
+  },
+  "activity_classes": {
+    "9": [
+      "computer software and software applications",
+      "AI assessment, monitoring, diagnostics and analysis software",
+      "AI ratings, profiles, findings, evidence references and assessment history software",
+      "machine-readable status, policy decision, alert and local observation/protection software"
+    ],
+    "41": [
+      "AI-related education and training",
+      "workshops, seminars, conferences and educational programs",
+      "educational publications and research/methodology explainers concerning AI evaluation and ratings"
+    ],
+    "42": [
+      "scientific and technological AI research, analysis, testing and evaluation",
+      "software and AI-enabled system testing, inspection and technological evaluation",
+      "SaaS, PaaS and AIaaS for AI assessment, diagnostics, monitoring, ratings and registry/profile services",
+      "software design and development",
+      "technological consultancy concerning AI evaluation, evidence, software security, operational risk and deployment controls"
+    ]
+  }
+}

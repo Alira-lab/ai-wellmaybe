@@ -29,9 +29,11 @@ AI WELLMAYBE does not use assessment depth as a universal claim that an AI syste
 - [AI Agent Diagnostics](docs/AI_AGENT_DIAGNOSTICS.md)
 - [Governance Overview](docs/GOVERNANCE_OVERVIEW.md)
 - [Security Policy](SECURITY.md)
+- [Brand Usage Notice](BRAND_USAGE.md)
 - [Public Change Log](PUBLIC_CHANGELOG.md)
 - [Machine-readable brand record](brand-record.json)
 - [Citation metadata](CITATION.cff)
+- [Initial public brand record](release-notes/2026-10-20-public-brand-record.md)
 
 ### Deliberate disclosure boundary
 

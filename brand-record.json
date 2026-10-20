@@ -35,5 +35,20 @@
       "software design and development",
       "technological consultancy concerning AI evaluation, evidence, software security, operational risk and deployment controls"
     ]
-  }
+  },
+  "public_documents": {
+    "public_scope": "https://github.com/Alira-lab/ai-wellmaybe/blob/main/PUBLIC_SCOPE.md",
+    "methodology_overview": "https://github.com/Alira-lab/ai-wellmaybe/blob/main/docs/METHODOLOGY_OVERVIEW.md",
+    "ai_ratings": "https://github.com/Alira-lab/ai-wellmaybe/blob/main/docs/AI_RATINGS.md",
+    "ai_agent_diagnostics": "https://github.com/Alira-lab/ai-wellmaybe/blob/main/docs/AI_AGENT_DIAGNOSTICS.md",
+    "governance_overview": "https://github.com/Alira-lab/ai-wellmaybe/blob/main/docs/GOVERNANCE_OVERVIEW.md",
+    "security": "https://github.com/Alira-lab/ai-wellmaybe/blob/main/SECURITY.md"
+  },
+  "disclosure_boundary": [
+    "hidden tests, probes and fixtures are not public",
+    "exact thresholds, weights, calibration and anti-gaming logic are not public",
+    "exploit payloads/chains and restricted evidence are not public",
+    "private assessment data, credentials and customer architecture are not public",
+    "internal adjudication routing and security-sensitive implementation details are not public"
+  ]
 }

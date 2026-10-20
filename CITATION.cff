@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you reference AI WELLMAYBE or this public project record, please cite this repository and the dated public record."
+title: "AI WELLMAYBE — Public Brand and Methodology Overview"
+authors:
+  - name: "Alira-lab"
+version: "2026.10.20-public-record"
+date-released: 2026-10-20
+repository-code: "https://github.com/Alira-lab/ai-wellmaybe"
+url: "https://github.com/Alira-lab/ai-wellmaybe"
+keywords:
+  - artificial intelligence
+  - AI ratings
+  - AI evaluation
+  - AI agents
+  - AI diagnostics
+  - AI governance
+  - evidence

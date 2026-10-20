@@ -20,6 +20,27 @@ The public product direction includes:
 
 AI WELLMAYBE does not use assessment depth as a universal claim that an AI system is “safe.” Results are intended to remain bounded to the system, version, capability, scope and evidence actually assessed.
 
+
+## Public documentation
+
+- [Public Scope](PUBLIC_SCOPE.md)
+- [Methodology Overview](docs/METHODOLOGY_OVERVIEW.md)
+- [AI WELLMAYBE Ratings](docs/AI_RATINGS.md)
+- [AI Agent Diagnostics](docs/AI_AGENT_DIAGNOSTICS.md)
+- [Governance Overview](docs/GOVERNANCE_OVERVIEW.md)
+- [Security Policy](SECURITY.md)
+- [Public Change Log](PUBLIC_CHANGELOG.md)
+- [Machine-readable brand record](brand-record.json)
+- [Citation metadata](CITATION.cff)
+
+### Deliberate disclosure boundary
+
+This repository is intended to make the AI WELLMAYBE brand, public scope and high-level AIRR methodology discoverable and interpretable.
+
+It is intentionally **not** the source repository for the AIRR implementation or governance vault. Public material does not disclose hidden tests, exact thresholds or weights, exploit sequences, anti-gaming mechanisms, private evidence, internal adjudication routing or security-sensitive infrastructure.
+
+The goal is enough transparency to understand and challenge public outputs without turning the evaluation system into a reproducible blueprint for gaming or cloning.
+
 ## Product family
 
 ### AI WELLMAYBE Ratings

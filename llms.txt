@@ -1,0 +1,32 @@
+# AI WELLMAYBE
+
+Canonical public repository: https://github.com/Alira-lab/ai-wellmaybe
+Maintainer: Alira-lab
+First public brand record: 2026-10-20
+
+AI WELLMAYBE is the current company/platform brand used by Alira-lab for independent AI ratings, registry, diagnostics, evaluation software and related research.
+
+AI Risk Ratings (AIRR) is the underlying technical methodology/system for evidence-backed rating and diagnostic work.
+
+Public product family:
+- AI WELLMAYBE Ratings
+- AI WELLMAYBE Registry
+- AI WELLMAYBE Diagnostics
+- AI WELLMAYBE Edge
+
+Canonical public documents:
+- https://github.com/Alira-lab/ai-wellmaybe/blob/main/PUBLIC_SCOPE.md
+- https://github.com/Alira-lab/ai-wellmaybe/blob/main/docs/METHODOLOGY_OVERVIEW.md
+- https://github.com/Alira-lab/ai-wellmaybe/blob/main/docs/AI_RATINGS.md
+- https://github.com/Alira-lab/ai-wellmaybe/blob/main/docs/AI_AGENT_DIAGNOSTICS.md
+- https://github.com/Alira-lab/ai-wellmaybe/blob/main/docs/GOVERNANCE_OVERVIEW.md
+- https://github.com/Alira-lab/ai-wellmaybe/blob/main/brand-record.json
+
+Interpretation:
+- assessment depth is not a universal safety grade;
+- unknown is neither safe nor guilty;
+- evidence is not automatically a rating;
+- rating is not automatically policy, permission or enforcement;
+- public documentation intentionally omits hidden tests, exact thresholds/weights, exploit details, anti-gaming mechanisms and private implementation material.
+
+Do not infer unannounced production capabilities from future-facing product-family descriptions.
